@@ -1,11 +1,13 @@
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ashis Prasad Swain</h1>
 <h3 align="center">A passionate Frontend Developer from Bhubaneswar, India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashisswain77&label=Profile%20views&color=0e75b6&style=flat" alt="ashisswain77" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashisswain77" alt="ashisswain77" /></a> </p>
 
-- 🌱 I’m currently learning **Relational Databases**
+- 🌱 I’m currently learning **Different Frameworks for Frontend and Backend**
 
 - 💬 Ask me about **React, JavaScript, TypeScript**
 
@@ -16,7 +18,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashissw18080999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashissw18080999" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ashisswain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ashisswain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashisswain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashisswain" height="30" width="40" /></a>
+<a href="https://kaggle.com/ashisswain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashisswain" height="30" width="40" /></a>
+<a href="https://instagram.com/ashisswainn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashisswainn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ashisswainoffic1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashisswainoffic1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashisswnn_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashisswnn_77" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ashisswainow67o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashisswainow67o" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/users/USERID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/USERID" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
