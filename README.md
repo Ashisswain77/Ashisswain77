@@ -1,6 +1,5 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Ashis Prasad Swain</h1>
-<h3 align="center">A passionate Frontend Developer from Bhubaneswar, India</h3>
+<h3 align="center">Self Learned Full-Stack Developer from Bhubaneswar, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashisswain77&label=Profile%20views&color=0e75b6&style=flat" alt="ashisswain77" /> </p>
 
