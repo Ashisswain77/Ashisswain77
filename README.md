@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashisswain77&label=Profile%20views&color=0e75b6&style=flat" alt="ashisswain77" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashisswain77" alt="ashisswain77" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
 
 - 🌱 I’m currently learning **TypeScript and Tailwind CSS**
