@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashisswain77&label=Profile%20views&color=0e75b6&style=flat" alt="ashisswain77" /> </p>
 
-
-Exploring DevOps concepts and implementing CI/CD pipelines to automate build, test, and deployment processes.
-
+I’m actively learning and applying DevOps principles by integrating automation into everything I build.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
