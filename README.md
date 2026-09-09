@@ -17,12 +17,11 @@
 ---
 
 ### 🔭 Currently working on
-- **OnlineIDE** — browser-based IDE with sandboxed code execution & real-time collaboration
+- **SpeechEngine** — a web based text-to-speech full stack application with multiple voice and language selection.
 - **ShadowGuard** — cloud security project (B.Tech final year)
 
 ### 🌱 Currently learning
-- Cloud infrastructure & DevOps pipelines (CI/CD, containers)
-- System design & DSA
+How to build RAG models and DSA
 
 ---
 
