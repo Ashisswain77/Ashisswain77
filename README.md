@@ -57,14 +57,6 @@ How to build RAG models and DSA
 
 </div>
 
-### ⏱️ Wakatime Stats
-
-<div align="center">
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ashisswain77&theme=radical&hide_border=true&layout=compact)
-
-</div>
-
 <div align="center">
 
 </div>
